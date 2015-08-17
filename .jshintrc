@@ -1,0 +1,22 @@
+{
+  "bitwise": false,
+  "boss": true,
+  "eqeqeq": false,
+  "indent": 2,
+  "quotmark": true,
+  "globalstrict": true,
+  "laxcomma": true,
+  "laxbreak": true,
+  "browser": true,
+  "devel": true,
+  "jquery": true,
+  "predef": [
+    "_",
+    "Two",
+    "Backbone",
+    "requirejs",
+    "require",
+    "define",
+    "dat"
+  ]
+}
